@@ -1,73 +1,77 @@
-☘️ About Me
+# 👋 Hi, I'm Nicolas
 
-Hey, I’m Nicolas 👋
-Computer Science student focused on backend engineering, full-stack systems, and AI-powered applications.
+**Computer Science student** focused on **backend engineering, full-stack systems, and AI-powered applications**.
 
-I enjoy building things that actually get used — from scalable APIs to intelligent tools that help people learn, prepare, or make better decisions. I care a lot about clean architecture, performance, and writing code that’s easy to reason about.
+I enjoy building software that scales, makes sense architecturally, and solves real problems. I’m especially interested in **APIs, system design, and applied AI**, and I like shipping projects that people can actually use.
 
-Outside of coding, you’ll usually find me at the gym, working on side projects, or grinding LeetCode trying to get just a little better every day.
+Outside of coding, I spend time at the gym, working on side projects, and sharpening my problem-solving skills.
 
-🚀 What I’m Passionate About
+---
 
-Backend & API development (clean, scalable systems)
+## 🚀 Interests & Focus
+- Backend & API development
+- Full-stack web applications
+- AI-assisted tools & applied ML
+- Data Structures & Algorithms
+- Hackathons & collaborative projects
 
-AI-assisted applications & applied ML
+---
 
-Data structures & algorithms
+## 🛠️ Tech Stack
 
-Hackathons, problem-solving, and shipping real projects
+### **Languages**
+- Java
+- Python
+- JavaScript / TypeScript
+- C++
+- SQL
 
-Learning how systems work end-to-end
+### **Frameworks & Libraries**
+- Spring Boot
+- Node.js / Express
+- React / Next.js
+- PyTorch
 
-🛠️ Tech Stack
+### **Databases**
+- PostgreSQL
+- MongoDB
+- Redis
 
-Languages
+### **Cloud & Tools**
+- AWS (SageMaker)
+- Git & GitHub
+- Docker (learning)
+- REST APIs
+- Clerk, Stripe
 
-Java, Python, JavaScript, TypeScript
+---
 
-C++, SQL
+## 📌 Projects
 
-Frameworks & Tools
+### **AI Study Assistant**
+**Tech Stack:** Next.js, Gemini AI, PostgreSQL, Redis, Clerk  
+🔗 [Repository](https://www.cramsmart.us/home?fresh=true) 
 
-Spring Boot, Node.js, Express
+AI-powered study platform featuring personalized quizzes, mock exams, and adaptive learning tools.
 
-Next.js, React
+---
 
-PyTorch, Transformers
+### **Patient Management System**
+**Tech Stack:** Java, Spring Boot, MySQL  
+🔗 [Repository](https://github.com/Nicolas0672/patient-management)
 
-Databases
+A full-stack system for managing patient records, appointments, and medical data, built with a focus on **clean architecture and usability**.
 
-PostgreSQL, MongoDB, Redis
+---
 
-Cloud & Dev Tools
+## 🧠 Practice & Growth
+- **LeetCode:** https://leetcode.com/u/ouchnicolas/
+- Completed **NeetCode 150**, continuing advanced DSA practice
+- Focused on improving system thinking and problem-solving speed
 
-AWS (SageMaker), Git/GitHub
+---
 
-Docker (learning), REST APIs
+## 🤝 Connect
+Always open to collaboration, learning, and building cool things.
 
-Clerk, Stripe
-
-📌 Projects I’ve Enjoyed Building
-
-AI Study Assistant – Full-stack AI platform with quizzes, exams, and personalized learning
-
-AI Mock Interviewer – Simulated interview experience using Gemini AI
-
-Multimodal Recognition Model – PyTorch-based ML system with 90%+ F1-score
-
-Expense Tracker – Full-stack app with React, Node.js, and MongoDB
-
-(More projects pinned below 👇)
-
-🧠 Practice & Growth
-
-📈 LeetCode: https://leetcode.com/u/ouchnicolas/
-
-Completed NeetCode 150, continuing deeper DSA practice
-
-Always improving problem-solving and system thinking
-
-🤝 Let’s Connect
-
-I’m always open to learning, collaborating, or talking about tech.
-Feel free to explore my repos or reach out!
+📫 GitHub: https://github.com/ouchnicolas
