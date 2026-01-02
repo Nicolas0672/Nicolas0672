@@ -74,4 +74,5 @@ A full-stack system for managing patient records, appointments, and medical data
 ## 🤝 Connect
 Always open to collaboration, learning, and building cool things.
 
-📫 GitHub: https://github.com/ouchnicolas
+📫 LinkedIn: https://www.linkedin.com/in/nicolas-ouch-90705a315/
+
