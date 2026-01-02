@@ -38,9 +38,9 @@ Outside of coding, I spend time at the gym, working on side projects, and sharpe
 - Redis
 
 ### **Cloud & Tools**
-- AWS (SageMaker)
+- AWS 
 - Git & GitHub
-- Docker (learning)
+- Docker 
 - REST APIs
 - Clerk, Stripe
 
